@@ -2,3 +2,17 @@ C:\Users\jhmic\OneDrive - John Abbott College\AdventCode2020\obj\Debug\net7.0\Ad
 C:\Users\jhmic\OneDrive - John Abbott College\AdventCode2020\obj\Debug\net7.0\AdventCode2020.AssemblyInfoInputs.cache
 C:\Users\jhmic\OneDrive - John Abbott College\AdventCode2020\obj\Debug\net7.0\AdventCode2020.AssemblyInfo.cs
 C:\Users\jhmic\OneDrive - John Abbott College\AdventCode2020\obj\Debug\net7.0\AdventCode2020.csproj.CoreCompileInputs.cache
+C:\Users\jhmic\Source\Repos\AdventCode2020\bin\Debug\net7.0\AdventCode2020.exe
+C:\Users\jhmic\Source\Repos\AdventCode2020\bin\Debug\net7.0\AdventCode2020.deps.json
+C:\Users\jhmic\Source\Repos\AdventCode2020\bin\Debug\net7.0\AdventCode2020.runtimeconfig.json
+C:\Users\jhmic\Source\Repos\AdventCode2020\bin\Debug\net7.0\AdventCode2020.dll
+C:\Users\jhmic\Source\Repos\AdventCode2020\bin\Debug\net7.0\AdventCode2020.pdb
+C:\Users\jhmic\Source\Repos\AdventCode2020\obj\Debug\net7.0\AdventCode2020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhmic\Source\Repos\AdventCode2020\obj\Debug\net7.0\AdventCode2020.AssemblyInfoInputs.cache
+C:\Users\jhmic\Source\Repos\AdventCode2020\obj\Debug\net7.0\AdventCode2020.AssemblyInfo.cs
+C:\Users\jhmic\Source\Repos\AdventCode2020\obj\Debug\net7.0\AdventCode2020.csproj.CoreCompileInputs.cache
+C:\Users\jhmic\Source\Repos\AdventCode2020\obj\Debug\net7.0\AdventCode2020.dll
+C:\Users\jhmic\Source\Repos\AdventCode2020\obj\Debug\net7.0\refint\AdventCode2020.dll
+C:\Users\jhmic\Source\Repos\AdventCode2020\obj\Debug\net7.0\AdventCode2020.pdb
+C:\Users\jhmic\Source\Repos\AdventCode2020\obj\Debug\net7.0\AdventCode2020.genruntimeconfig.cache
+C:\Users\jhmic\Source\Repos\AdventCode2020\obj\Debug\net7.0\ref\AdventCode2020.dll
